@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import winebot
 from dotenv import load_dotenv
 from requests_oauthlib import OAuth1Session
